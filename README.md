@@ -1,4 +1,4 @@
-# SkillFactory-task-19.7.2
+# PetFriendsApiTests-task-19.7.2
 
 Тестовый проект к 19 модулю SkillFactory курса QAP
 
